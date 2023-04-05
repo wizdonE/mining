@@ -1,0 +1,2 @@
+# mining
+btc mining 
